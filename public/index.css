@@ -1,0 +1,52 @@
+.body {
+  margin: auto;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: gray;
+  text-align: center;
+}
+
+.mainBox{
+  width:10em;
+  max-width: 10em;
+  height:10em;
+  max-height: 10em;
+}
+.redBox{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: red;
+  color:white;
+  max-width: 10em;
+}
+.topBox{
+  
+  max-height: 1em;
+  max-width:10em;
+  padding-bottom: 0em;
+  padding-top: .5em;
+  font-size: 1.4em;
+  border-top-right-radius: .75em;
+  border-top-left-radius: .75em;
+}
+.midRed{
+  padding-top:0em;
+  padding-bottom: 0em;
+  max-height: 2em;
+}
+.midBox{
+  background-color: white;
+  font-family: cursive;
+  font-size: 2em;
+  max-width: 10em;
+  max-height: 4em;
+  padding: 0em 1em 0em 1em;
+}
+.bottomBox{
+  color:red;
+  height: 1em;
+}
+.bottomRed{
+  color:red;
+  border-bottom-right-radius: .75em;
+  border-bottom-left-radius: .75em;
+}
